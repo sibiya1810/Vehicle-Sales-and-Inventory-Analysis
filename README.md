@@ -57,7 +57,7 @@ To resolve many-to-many issues between Sales and Inventory data:
   Pilot Touring, Fit Sport, Accord LX, Civic Hybrid, CR-V EX
 
 - **Monthly Sales Trend:**  
-  Sales peaked in **March 2024** at `$19M`; lowest in April
+  Sales peaked in **August 2024** at `$19M`; lowest in September
 
 - **Units Sold vs Stock by Model:**  
   Bar chart comparing inventory vs demand
@@ -78,7 +78,7 @@ To resolve many-to-many issues between Sales and Inventory data:
 
 ## 📈 Key Insights
 
-- March 2024 had the highest sales, April the lowest
+- August 2024 had the highest sales, September the lowest
 - Inventory is well-aligned with high-performing models
 - Midwest and South regions show strong sales volume
 - CR-V EX underperforms in both sales and stock movement
@@ -97,8 +97,7 @@ To resolve many-to-many issues between Sales and Inventory data:
 ## 🧰 Tools Used
 
 - Power BI Desktop  
-- Power Query (M)  
+- Power Query 
 - DAX for calculated columns and KPIs  
-- Excel (for data shaping)
 
 ---
